@@ -1,0 +1,14 @@
+C:\Users\ingfr\source\repos\CopiaEIncollaDetector\CopiaEIncollaDetector\bin\Debug\CopiaEIncollaDetector.exe.config
+C:\Users\ingfr\source\repos\CopiaEIncollaDetector\CopiaEIncollaDetector\bin\Debug\CopiaEIncollaDetector.exe
+C:\Users\ingfr\source\repos\CopiaEIncollaDetector\CopiaEIncollaDetector\bin\Debug\CopiaEIncollaDetector.pdb
+C:\Users\ingfr\source\repos\CopiaEIncollaDetector\CopiaEIncollaDetector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ingfr\source\repos\CopiaEIncollaDetector\CopiaEIncollaDetector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ingfr\source\repos\CopiaEIncollaDetector\CopiaEIncollaDetector\obj\Debug\CopiaEIncollaDetector.csproj.AssemblyReference.cache
+C:\Users\ingfr\source\repos\CopiaEIncollaDetector\CopiaEIncollaDetector\obj\Debug\CopiaEIncollaDetector.csproj.SuggestedBindingRedirects.cache
+C:\Users\ingfr\source\repos\CopiaEIncollaDetector\CopiaEIncollaDetector\obj\Debug\CopiaEIncollaDetector.Form1.resources
+C:\Users\ingfr\source\repos\CopiaEIncollaDetector\CopiaEIncollaDetector\obj\Debug\CopiaEIncollaDetector.Properties.Resources.resources
+C:\Users\ingfr\source\repos\CopiaEIncollaDetector\CopiaEIncollaDetector\obj\Debug\CopiaEIncollaDetector.csproj.GenerateResource.cache
+C:\Users\ingfr\source\repos\CopiaEIncollaDetector\CopiaEIncollaDetector\obj\Debug\CopiaEIncollaDetector.csproj.CoreCompileInputs.cache
+C:\Users\ingfr\source\repos\CopiaEIncollaDetector\CopiaEIncollaDetector\obj\Debug\CopiaEIncollaDetector.csproj.CopyComplete
+C:\Users\ingfr\source\repos\CopiaEIncollaDetector\CopiaEIncollaDetector\obj\Debug\CopiaEIncollaDetector.exe
+C:\Users\ingfr\source\repos\CopiaEIncollaDetector\CopiaEIncollaDetector\obj\Debug\CopiaEIncollaDetector.pdb
